@@ -1,6 +1,8 @@
 # AI agent configuration
 AGENT.md
 ROADMAP.md
+docker.md
+git.md
 
 # Environment variables and secrets
 .env
