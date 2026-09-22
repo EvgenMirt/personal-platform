@@ -3,6 +3,7 @@ AGENT.md
 ROADMAP.md
 docker.md
 git.md
+commands-linux.md
 
 # Environment variables and secrets
 .env
